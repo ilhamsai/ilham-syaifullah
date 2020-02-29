@@ -1,6 +1,6 @@
 # ilham-syaifullah
 BootCamp Arkademy
--jawaban soal di jump code
+jawaban soal di View Code
 
 Saya Mengerjakan Tugas Soal BootCamp ArkaDemy
 Menggunakan HandPhone, Jujur Saya Kesulitan 
